@@ -4,7 +4,7 @@
 ###  app 里面是所有组件
 commentForm.jsx  是评论区的组件<br />
 commentList.jsx  评论显示区的组件<br />
-messageBoard.jsx  留言板的组件\<br />
+messageBoard.jsx  留言板的组件
 
 build
 --------------------------
